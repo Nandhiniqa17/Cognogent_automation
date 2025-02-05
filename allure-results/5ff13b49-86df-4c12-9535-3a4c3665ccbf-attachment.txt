@@ -1,0 +1,2 @@
+Running Login test with email: hannahnunez@example.com
+Login successful with email hannahnunez@example.com, Dashboard is displayed.
